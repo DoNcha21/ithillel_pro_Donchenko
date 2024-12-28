@@ -1,5 +1,5 @@
 package org.example.lesson2;
-
+//dummy lesson2
 public class Main {
     private static final double CONV_K = 1.60934;
 
