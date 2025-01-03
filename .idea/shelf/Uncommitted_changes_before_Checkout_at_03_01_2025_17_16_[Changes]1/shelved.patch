@@ -1,0 +1,140 @@
+Index: src/main/java/org/example/lesson4/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\r\n\r\npublic class Custumer {\r\n    private final String  name = \"ddsdf\";\r\n\r\n\r\n}\r\n\r\npublic class Main {\r\n\r\n    public static void main(String[] args) {\r\n        System.out.println(new Custumer(name));\r\n    }\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/org/example/lesson4/Main.java b/src/main/java/org/example/lesson4/Main.java
+--- a/src/main/java/org/example/lesson4/Main.java	
++++ b/src/main/java/org/example/lesson4/Main.java	
+@@ -1,14 +1,24 @@
+-
++package org.example.lesson4;
+ 
+-public class Custumer {
+-    private final String  name = "ddsdf";
+ 
+-
+-}
+-
++// Виправте цей клас
+ public class Main {
+ 
+     public static void main(String[] args) {
+-        System.out.println(new Custumer(name));
++        Customer customer = getCustomer(getData());
++        String output = "Customer: " + customer.getName() + ", phone: " + customer.getPhone();
++        getOutput(output);
+     }
+-}
+\ No newline at end of file
++
++    public static String[] getData() {
++        return new String[]{"Mark","02544"};
++    }
++
++    public static Customer getCustomer(String[] data) {
++        return new Customer(data[0], data[1]);
++    }
++
++    public static void getOutput(String output) {
++        System.out.println(output);
++    }
++}
+Index: .idea/encodings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/encodings.xml b/.idea/encodings.xml
+new file mode 100644
+--- /dev/null	
++++ b/.idea/encodings.xml	
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Encoding">
++    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
++    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
++  </component>
++</project>
+\ No newline at end of file
+Index: src/main/java/org/example/lesson4/Customer.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/org/example/lesson4/Customer.java b/src/main/java/org/example/lesson4/Customer.java
+new file mode 100644
+--- /dev/null	
++++ b/src/main/java/org/example/lesson4/Customer.java	
+@@ -0,0 +1,22 @@
++package org.example.lesson4;
++
++public class Customer {
++
++    // Виправте декларацію змінних класу
++    private final String name;
++    private final String phone;
++
++    // Виправте визначення конструктора
++    public Customer(String name, String phone) {
++        this.name = name;
++        this.phone = phone;
++    }
++
++    public String getPhone() {
++        return phone;
++    }
++
++    public String getName() {
++        return name;
++    }
++}
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"VcsDirectoryMappings\">\r\n    <mapping directory=\"$PROJECT_DIR$\" vcs=\"Git\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+--- a/.idea/vcs.xml	
++++ b/.idea/vcs.xml	
+@@ -1,6 +1,6 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++    <mapping directory="" vcs="Git" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_X\" default=\"true\" project-jdk-name=\"23\" project-jdk-type=\"JavaSDK\">\r\n    <output url=\"file://$PROJECT_DIR$/..\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	
++++ b/.idea/misc.xml	
+@@ -1,5 +1,13 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
++  <component name="ExternalStorageConfigurationManager" enabled="true" />
++  <component name="MavenProjectsManager">
++    <option name="originalFiles">
++      <list>
++        <option value="$PROJECT_DIR$/pom.xml" />
++      </list>
++    </option>
++  </component>
+   <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="23" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/.." />
+   </component>
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+new file mode 100644
