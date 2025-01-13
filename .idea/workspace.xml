@@ -4,11 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b8f6d27-4b0e-4178-8cf7-2858990e20d6" name="Changes" comment="Delete all unnecessary parts" />
+    <list default="true" id="9b8f6d27-4b0e-4178-8cf7-2858990e20d6" name="Changes" comment="unvers. files add">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson7/Corrector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson7/DataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/lesson4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson4/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -37,34 +50,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.example.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/Java projects/ithillel_pro_Donchenko/ithillel_pro_Donchenko_main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Main (1).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Unnamed.executor": "Run",
+    "Application.org.example.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "7th-branch",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/Java projects/ithillel_pro_Donchenko/ithillel_pro_Donchenko_main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Java projects\ithillel_pro_Donchenko\ithillel_pro_Donchenko_main" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.org.example.lesson7.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="23" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -74,9 +88,10 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/openjdk-23.0.1" />
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="org.example.lesson4.Main" />
+      <module name="ithillel_pro_Donchenko_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
       <extension name="coverage">
         <pattern>
@@ -107,19 +122,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
+    <configuration name="org.example.lesson7.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lesson7.Main" />
       <module name="ithillel_pro_Donchenko_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.lesson7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.org.example.lesson7.Main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.org.example.lesson1.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.lesson7.Main" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.org.example.lesson1.Main" />
         <item itemvalue="Application.org.example.lesson1.Main" />
@@ -158,6 +182,8 @@
       <workItem from="1735757463014" duration="26000" />
       <workItem from="1735757492098" duration="4725000" />
       <workItem from="1735889592182" duration="2943000" />
+      <workItem from="1736792062839" duration="13000" />
+      <workItem from="1736792090216" duration="632000" />
     </task>
     <task id="LOCAL-00001" summary="lesson2 in new branch">
       <option name="closed" value="true" />
