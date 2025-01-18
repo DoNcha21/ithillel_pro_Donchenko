@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1e7f0bb-1dee-40bd-a752-4bafd6680005" name="Changes" comment="merge conflict">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson8/FundsException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson8/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e1e7f0bb-1dee-40bd-a752-4bafd6680005" name="Changes" comment="HW 8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,8 +112,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737192135635</updated>
-      <workItem from="1737192136844" duration="1548000" />
+      <workItem from="1737192136844" duration="1988000" />
     </task>
+    <task id="LOCAL-00001" summary="HW 8">
+      <option name="closed" value="true" />
+      <created>1737193860257</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737193860257</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +153,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="merge conflict" />
-    <option name="LAST_COMMIT_MESSAGE" value="merge conflict" />
+    <MESSAGE value="HW 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW 8" />
   </component>
 </project>
