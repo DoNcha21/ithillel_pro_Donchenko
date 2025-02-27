@@ -8,9 +8,11 @@ target/
 .idea/jarRepositories.xml
 .idea/compiler.xml
 .idea/libraries/
+.idea
 *.iws
 *.iml
 *.ipr
+F:\Java projects\ithillel_pro_Donchenko\ithillel_pro_Donchenko_main\.idea
 
 ### Eclipse ###
 .apt_generated
