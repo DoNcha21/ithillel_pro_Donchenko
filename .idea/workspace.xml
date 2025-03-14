@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f373b74-57e7-425e-81ee-3aaa05ec1839" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson9/HW9-1/DataHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson9/HW9-1/DataProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson9/HW9-1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson9/extraTask/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson9/extraTask/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson9/extraTask/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson9/extraTask/FruitMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson9/extraTask/Orange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="9f373b74-57e7-425e-81ee-3aaa05ec1839" name="Changes" comment="lesson 9 - done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,10 +46,11 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.FruitMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;9th-branch&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/Java projects/ithillel_pro_Donchenko/ithillel_pro_Donchenko_main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Information/LessonProjects/Java projects/ithillel_pro_Donchenko/ithillel_pro_Donchenko_main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -87,11 +78,50 @@
       <workItem from="1740651247143" duration="2963000" />
       <workItem from="1740824107234" duration="4761000" />
       <workItem from="1741196589333" duration="6174000" />
-      <workItem from="1741244508266" duration="8441000" />
+      <workItem from="1741244508266" duration="9292000" />
+      <workItem from="1741938409049" duration="1365000" />
+      <workItem from="1741939792509" duration="144000" />
+      <workItem from="1741939945601" duration="235000" />
     </task>
+    <task id="LOCAL-00001" summary="lesson 9 - done">
+      <option name="closed" value="true" />
+      <created>1741346912999</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741346912999</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="new-main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lesson 9 - done" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 9 - done" />
   </component>
 </project>
