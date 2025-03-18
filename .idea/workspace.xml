@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+
     <list default="true" id="9b8f6d27-4b0e-4178-8cf7-2858990e20d6" name="Changes" comment="Delete all unnecessary parts">
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson11/FileHandler.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson11/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,9 +29,10 @@
       <map>
         <entry key="$PROJECT_DIR$" value="new-main" />
       </map>
+
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
     &quot;state&quot;: &quot;OPEN&quot;,
@@ -39,15 +42,13 @@
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
+
 }</component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
   <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 8
 }</component>
-  <component name="ProjectId" id="2qlUzVNmrChmn6j4zLXr6N8WNFq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2tcVFB66M6UqSmkZKy1vQXjwtn9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -172,10 +173,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9b8f6d27-4b0e-4178-8cf7-2858990e20d6" name="Changes" comment="" />
-      <created>1735236918873</created>
+      <changelist id="9f373b74-57e7-425e-81ee-3aaa05ec1839" name="Changes" comment="" />
+      <created>1740651245716</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+
       <updated>1735236918873</updated>
       <workItem from="1735236920432" duration="13000" />
       <workItem from="1735236948046" duration="724000" />
@@ -252,36 +254,12 @@
       <option name="project" value="LOCAL" />
       <updated>1735759109583</updated>
     </task>
-    <task id="LOCAL-00008" summary="Delete all unnecessary parts">
-      <option name="closed" value="true" />
-      <created>1735761939940</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1735761939940</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Delete all unnecessary parts">
-      <option name="closed" value="true" />
-      <created>1735761976221</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1735761976221</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Delete all unnecessary parts">
-      <option name="closed" value="true" />
-      <created>1735762004780</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1735762004780</updated>
-    </task>
-    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
