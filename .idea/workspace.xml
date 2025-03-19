@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+
     <list default="true" id="9b8f6d27-4b0e-4178-8cf7-2858990e20d6" name="Changes" comment="Delete all unnecessary parts">
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson12/DataHandler.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson12/DataRepository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson12/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson12/MyThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +24,7 @@
       <list>
         <option value="Class" />
       </list>
+
     </option>
   </component>
   <component name="Git.Settings">
@@ -29,25 +32,25 @@
       <map>
         <entry key="$PROJECT_DIR$" value="10th-branch" />
       </map>
+
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
+
 }</component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
   <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 8
 }</component>
-  <component name="ProjectId" id="2qlUzVNmrChmn6j4zLXr6N8WNFq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2tcVFB66M6UqSmkZKy1vQXjwtn9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -140,160 +143,31 @@
       </list>
     </recent_temporary>
   </component>
+
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
-        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.19416.15" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.19416.15" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9b8f6d27-4b0e-4178-8cf7-2858990e20d6" name="Changes" comment="" />
-      <created>1735236918873</created>
+      <changelist id="9f373b74-57e7-425e-81ee-3aaa05ec1839" name="Changes" comment="" />
+      <created>1740651245716</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1735236918873</updated>
-      <workItem from="1735236920432" duration="13000" />
-      <workItem from="1735236948046" duration="724000" />
-      <workItem from="1735237690636" duration="1375000" />
-      <workItem from="1735239102480" duration="810000" />
-      <workItem from="1735382690762" duration="801000" />
-      <workItem from="1735383578797" duration="1446000" />
-      <workItem from="1735385893017" duration="1485000" />
-      <workItem from="1735481393180" duration="559000" />
-      <workItem from="1735738302779" duration="1699000" />
-      <workItem from="1735751292632" duration="1103000" />
-      <workItem from="1735755207087" duration="1240000" />
-      <workItem from="1735756470047" duration="421000" />
-      <workItem from="1735756905047" duration="550000" />
-      <workItem from="1735757463014" duration="26000" />
-      <workItem from="1735757492098" duration="4725000" />
-      <workItem from="1735889592182" duration="2943000" />
+      <updated>1740651245716</updated>
+      <workItem from="1740651247143" duration="2963000" />
+      <workItem from="1740824107234" duration="4761000" />
+      <workItem from="1741196589333" duration="6174000" />
+      <workItem from="1741244508266" duration="8441000" />
     </task>
-    <task id="LOCAL-00001" summary="lesson2 in new branch">
-      <option name="closed" value="true" />
-      <created>1735384156731</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1735384156732</updated>
-    </task>
-    <task id="LOCAL-00002" summary="remove main in lesson2">
-      <option name="closed" value="true" />
-      <created>1735385810657</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1735385810657</updated>
-    </task>
-    <task id="LOCAL-00003" summary="remove main in lesson2 (2)">
-      <option name="closed" value="true" />
-      <created>1735386053976</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1735386053976</updated>
-    </task>
-    <task id="LOCAL-00004" summary="lesson2 comm">
-      <option name="closed" value="true" />
-      <created>1735386451212</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1735386451212</updated>
-    </task>
-    <task id="LOCAL-00005" summary="lesson3 comm">
-      <option name="closed" value="true" />
-      <created>1735481899711</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1735481899711</updated>
-    </task>
-    <task id="LOCAL-00006" summary="lesson4 not complete">
-      <option name="closed" value="true" />
-      <created>1735752473692</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1735752473692</updated>
-    </task>
-    <task id="LOCAL-00007" summary="lesson4 not complete2">
-      <option name="closed" value="true" />
-      <created>1735759109583</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1735759109583</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Delete all unnecessary parts">
-      <option name="closed" value="true" />
-      <created>1735761939940</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1735761939940</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Delete all unnecessary parts">
-      <option name="closed" value="true" />
-      <created>1735761976221</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1735761976221</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Delete all unnecessary parts">
-      <option name="closed" value="true" />
-      <created>1735762004780</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1735762004780</updated>
-    </task>
-    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/main" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="lesson2 in new branch" />
-    <MESSAGE value="remove main in lesson2" />
-    <MESSAGE value="remove main in lesson2 (2)" />
-    <MESSAGE value="lesson2 comm" />
-    <MESSAGE value="lesson3 comm" />
-    <MESSAGE value="lesson4 not complete" />
-    <MESSAGE value="lesson4 not complete2" />
-    <MESSAGE value="Delete all unnecessary parts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Delete all unnecessary parts" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ithillel_pro_Donchenko_main$Main__1_.ic" NAME="Main (1) Coverage Results" MODIFIED="1735759326007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
   </component>
 </project>
