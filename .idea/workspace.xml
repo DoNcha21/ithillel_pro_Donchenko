@@ -4,17 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f373b74-57e7-425e-81ee-3aaa05ec1839" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson9/HW9-1/DataHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson9/HW9-1/DataProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson9/HW9-1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson9/extraTask/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson9/extraTask/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson9/extraTask/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson9/extraTask/FruitMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lesson9/extraTask/Orange.java" afterDir="false" />
+
+    <list default="true" id="9b8f6d27-4b0e-4178-8cf7-2858990e20d6" name="Changes" comment="Complete lesson12">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW13/DataHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW13/DataRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HW13/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PubPractise/AlcoholicDrink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PubPractise/BarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PubPractise/Bartender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PubPractise/Cocktail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PubPractise/DrinkSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PubPractise/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PubPractise/ShakeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PubPractise/Taste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,13 +29,21 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="new-main" />
+      </map>
+
+    </option>
   </component>
+
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
     &quot;state&quot;: &quot;OPEN&quot;,
@@ -41,9 +53,27 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/DoNcha21/ithillel_pro_Donchenko.git&quot;,
-    &quot;accountId&quot;: &quot;01f0d298-234e-47b6-8e0c-c409a8175d23&quot;
+
+    &quot;accountId&quot;: &quot;a4f89715-0f04-43d2-b281-36abab3cb439&quot;
   }
 }</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 8
@@ -53,26 +83,139 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.FruitMain.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;9th-branch&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/Java projects/ithillel_pro_Donchenko/ithillel_pro_Donchenko_main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.BarMain.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main (2).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.PubPractise.Main.executor": "Run",
+    "Application.Unnamed.executor": "Run",
+    "Application.org.example.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "13th-branch",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/Java projects/ithillel_pro_Donchenko/ithillel_pro_Donchenko_main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Java projects\ithillel_pro_Donchenko\ithillel_pro_Donchenko_main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HW13.Main">
+    <configuration name="BarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PubPractise.BarMain" />
+      <module name="ithillel_pro_Donchenko_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PubPractise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW13.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW13.Main" />
+      <module name="ithillel_pro_Donchenko_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="23" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.example.mn.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ithillel_pro_Donchenko_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/openjdk-23.0.1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.example.lesson4.Main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.lesson1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.lesson1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.example.lesson1.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.lesson1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lesson1.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.lesson1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.HW13.Main" />
+      <item itemvalue="Application.BarMain" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.org.example.lesson1.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HW13.Main" />
+        <item itemvalue="Application.BarMain" />
+        <item itemvalue="Application.org.example.lesson1.Main" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.19416.15" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.19416.15" />
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+
       </set>
     </attachedChunks>
   </component>
@@ -83,15 +226,165 @@
       <created>1740651245716</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1740651245716</updated>
-      <workItem from="1740651247143" duration="2963000" />
-      <workItem from="1740824107234" duration="4761000" />
-      <workItem from="1741196589333" duration="6174000" />
-      <workItem from="1741244508266" duration="8441000" />
+
+      <updated>1735236918873</updated>
+      <workItem from="1735236920432" duration="13000" />
+      <workItem from="1735236948046" duration="724000" />
+      <workItem from="1735237690636" duration="1375000" />
+      <workItem from="1735239102480" duration="810000" />
+      <workItem from="1735382690762" duration="801000" />
+      <workItem from="1735383578797" duration="1446000" />
+      <workItem from="1735385893017" duration="1485000" />
+      <workItem from="1735481393180" duration="559000" />
+      <workItem from="1735738302779" duration="1699000" />
+      <workItem from="1735751292632" duration="1103000" />
+      <workItem from="1735755207087" duration="1240000" />
+      <workItem from="1735756470047" duration="421000" />
+      <workItem from="1735756905047" duration="550000" />
+      <workItem from="1735757463014" duration="26000" />
+      <workItem from="1735757492098" duration="4725000" />
+      <workItem from="1735889592182" duration="2943000" />
+      <workItem from="1742469305338" duration="93000" />
+      <workItem from="1742885976826" duration="16679000" />
+      <workItem from="1742913600621" duration="324000" />
+      <workItem from="1742914014139" duration="611000" />
+      <workItem from="1742914658510" duration="924000" />
+      <workItem from="1742915665683" duration="1011000" />
+      <workItem from="1742916990075" duration="639000" />
     </task>
+    <task id="LOCAL-00001" summary="lesson2 in new branch">
+      <option name="closed" value="true" />
+      <created>1735384156731</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735384156732</updated>
+    </task>
+    <task id="LOCAL-00002" summary="remove main in lesson2">
+      <option name="closed" value="true" />
+      <created>1735385810657</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735385810657</updated>
+    </task>
+    <task id="LOCAL-00003" summary="remove main in lesson2 (2)">
+      <option name="closed" value="true" />
+      <created>1735386053976</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735386053976</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lesson2 comm">
+      <option name="closed" value="true" />
+      <created>1735386451212</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735386451212</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lesson3 comm">
+      <option name="closed" value="true" />
+      <created>1735481899711</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735481899711</updated>
+    </task>
+    <task id="LOCAL-00006" summary="lesson4 not complete">
+      <option name="closed" value="true" />
+      <created>1735752473692</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735752473692</updated>
+    </task>
+    <task id="LOCAL-00007" summary="lesson4 not complete2">
+      <option name="closed" value="true" />
+      <created>1735759109583</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735759109583</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Delete all unnecessary parts">
+      <option name="closed" value="true" />
+      <created>1735761939940</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735761939940</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Delete all unnecessary parts">
+      <option name="closed" value="true" />
+      <created>1735761976221</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1735761976221</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Delete all unnecessary parts">
+      <option name="closed" value="true" />
+      <created>1735762004780</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1735762004780</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Complete lesson12">
+      <option name="closed" value="true" />
+      <created>1742411035377</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1742411035377</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="13th-branch" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lesson2 in new branch" />
+    <MESSAGE value="remove main in lesson2" />
+    <MESSAGE value="remove main in lesson2 (2)" />
+    <MESSAGE value="lesson2 comm" />
+    <MESSAGE value="lesson3 comm" />
+    <MESSAGE value="lesson4 not complete" />
+    <MESSAGE value="lesson4 not complete2" />
+    <MESSAGE value="Delete all unnecessary parts" />
+    <MESSAGE value="Complete lesson12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete lesson12" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ithillel_pro_Donchenko_main$Main__1_.ic" NAME="Main (1) Coverage Results" MODIFIED="1735759326007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+
 </project>
